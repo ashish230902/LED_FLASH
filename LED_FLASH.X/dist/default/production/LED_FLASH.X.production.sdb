@@ -1,0 +1,72 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F27J53 ]
+[d frameptr 4065 ]
+"4 D:\Work- Electronics\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 D:\Work- Electronics\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 D:\Work- Electronics\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 D:\Work- Electronics\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 D:\Work- Electronics\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 D:\Work- Electronics\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 D:\Work- Electronics\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 D:\Work- Electronics\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 D:\Work- Electronics\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 D:\Work- Electronics\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 D:\Work- Electronics\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"44 D:\Work- Electronics\Microchip\LED_FLASH.X\LED_FLASH.c
+[v _main main `(v  1 e 1 0 ]
+"1958 D:/Work- Electronics/packs/Microchip/PIC18F-J_DFP/1.3.35/xc8\pic\include\proc\pic18f27j53.h
+[v _CCP4CON CCP4CON `VEuc  1 e 1 @3858 ]
+"2022
+[v _CCPR4L CCPR4L `VEuc  1 e 1 @3859 ]
+"2042
+[v _CCPR4H CCPR4H `VEuc  1 e 1 @3860 ]
+"5386
+[v _ANCON0 ANCON0 `VEuc  1 e 1 @3912 ]
+"5430
+[v _ANCON1 ANCON1 `VEuc  1 e 1 @3913 ]
+"5714
+[v _CCPTMRS1 CCPTMRS1 `VEuc  1 e 1 @3921 ]
+"9798
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"9855
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"13720
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"13817
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+"13968
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"13988
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"15536
+[v _T2CON T2CON `VEuc  1 e 1 @4042 ]
+"18014
+[v _ADIF ADIF `VEb  1 e 0 @31990 ]
+"18050
+[v _ADON ADON `VEb  1 e 0 @32272 ]
+"19601
+[v _GO_nDONE GO_nDONE `VEb  1 e 0 @32273 ]
+"21353
+[v _TMR2ON TMR2ON `VEb  1 e 0 @32338 ]
+"44 D:\Work- Electronics\Microchip\LED_FLASH.X\LED_FLASH.c
+[v _main main `(v  1 e 1 0 ]
+{
+"46
+[v main@analog_reading analog_reading `i  1 a 2 2 ]
+"81
+} 0
